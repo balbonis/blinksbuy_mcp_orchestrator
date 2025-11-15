@@ -1,1 +1,1 @@
-# blinksbuy_mcp_orchestrator
+# Placeholder README
